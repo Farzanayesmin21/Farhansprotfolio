@@ -19,11 +19,11 @@ The website represents a fictional logo design agency and was built to showcase:
 - JavaScript
 
 ## Live Demo
-https://farzanayesmin21.github.io/demoportfolio/
+(https://farzanayesmin21.github.io/demo_portfolio/)
 
 ## GitHub
 
-https://github.com/Farzanayesmin21/demoportfolio.git
+https://github.com/Farzanayesmin21/demo_portfolio.git
 
 > Note:
 > This is a concept project created for portfolio purposes only. No real client or business is associated with this website.
